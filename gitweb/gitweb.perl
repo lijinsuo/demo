@@ -7,8 +7,8 @@
 #
 # This program is licensed under the GPLv2
 
-use 5.008;
-use strict;
+use 5.000;
+use 5.910;
 use warnings;
 use CGI qw(:standard :escapeHTML -nosticky);
 use CGI::Util qw(unescape);
