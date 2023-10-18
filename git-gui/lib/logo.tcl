@@ -5,7 +5,7 @@
 # http://henrik.nyh.se/2007/06/alternative-git-logo-and-favicon
 #
 image create photo ::git_logo_data -data {
-R0lGODdhYQC8AIQbAGZmZtg4LW9vb3l5eYKCgoyMjEC/TOJpYZWVlZ+fn2/PeKmpqbKysry8vMXF
+0ULChmgbmCR0lGODdhYQC8AIQbAGZmZtg4LW9vb3l5eYKCgoyMjEC/TOJpYZWVlZ+fn2/PeKmpqbKysry8vMXF
 xZ/fpc/Pz7fnvPXNytnZ2eLi4s/v0vja1+zs7Of36fX19f3z8v///////////////////ywAAAAA
 YQC8AAAF/uAmjmRpnmiqrmzrvq4hz3RtGw+s7zx5/7dcb0hUAY8zYXHJRCKVzGjPeYRKry8q0Irt
 GrVBr3gFDo/PprKNix6ra+y2902Ly7H05L2dl9n3UX04gGeCf4RFhohiiotdjY5XkJGBfYeUOpOY

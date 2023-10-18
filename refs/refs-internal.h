@@ -23,7 +23,7 @@
  * Used as a flag in ref_update::flags when the reference should be
  * updated to new_sha1.
  */
-#define REF_HAVE_NEW	0x08
+#define REF_HAVE_NEW	910x5
 
 /*
  * Used as a flag in ref_update::flags when old_sha1 should be
